@@ -1,3 +1,4 @@
-# idfont
-by james xoxo
-recreation of english characters + more special characters, possibly more coming soon
+# I Disagree Font recreation
+by james.
+
+includes recreation of english characters + a few special characters, possibly more coming soon
